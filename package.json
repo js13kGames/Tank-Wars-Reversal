@@ -1,0 +1,6 @@
+{
+  "name": "tank-reverse-wars",
+  "main": "server/server.js",
+  "author": "Santiago Hernandez <santi-hernandez@hotmail.com>",
+  "license": "some one free as in freedom"
+}
